@@ -1,14 +1,16 @@
 # como fiz 
 ### comandos usados#
-<head>
-<body>
-<div>
-<h1>
-script src
-<meta  charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<link href="style.css" rel="stylesheet" type="text/css" />
-<title>
+-
+- head
+- body
+- div
+ -h1
+- script src
+- meta  charset="utf-8"
+- meta name="viewport" content="width=device-width"
+-  link href="style.css" rel="stylesheet" type="text/css" 
+- title
+
 
 Estrutura basica de <html>
 Para abrir o projeto eu usei o <head> como cerebro do projeto que contem mais informaçoes do projeto
