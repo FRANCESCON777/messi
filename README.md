@@ -1,10 +1,10 @@
 # como fiz 
 ### comandos usados#
--
+
 - head
 - body
 - div
- -h1
+- h1
 - script src
 - meta  charset="utf-8"
 - meta name="viewport" content="width=device-width"
